@@ -11,15 +11,15 @@ html {
 }
 
 :root{
-    --color1: #469B9B;
-    --color2: #F06B1D;
-    --color3: #00EFEE;
-    --color4: #B06A41;
-    --color5: #705546;
+    --color1: #9b4c46;
+    --color2: #f0391d;
+    --color3: #e7ef00;
+    --color4: #a01d1d8d;
+    --color5: #f6f6f6;
 }
 
 h1, h2, p, a, button {
-    font-family: 'Tilt Neon', sans-serif;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
 body {
