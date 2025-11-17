@@ -111,7 +111,10 @@ button:hover {
   border-radius: 5px;
   text-align: center;
 }
-
+indice hover {
+  background-color: var(--color2);
+  cursor: pointer;
+}
 footer{
     padding: 20px;
     background-color: var(--color1);
